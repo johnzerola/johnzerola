@@ -1,6 +1,6 @@
 # John Zerola
 
-**Estudante de Engenharia de Software · AI Builder em formação · automações e ferramentas com IA para operações reais**
+**Estudante de Engenharia de Software · AI Builder em formação · automação e produtos digitais para operações reais**
 
 Gosto de partir de problemas concretos, entender o fluxo de trabalho e construir ferramentas que ajudem a resolvê-los. Documentar limites e validar o que realmente funciona faz parte do projeto.
 
